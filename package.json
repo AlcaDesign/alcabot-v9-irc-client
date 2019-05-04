@@ -1,13 +1,13 @@
 {
   "name": "v9-irc",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Twitch IRC library for v9 of Alcabot.",
   "main": "irc.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jacob \"Alca\" Foster",
   "license": "ISC",
   "dependencies": {
     "tekko": "^1.0.0"
